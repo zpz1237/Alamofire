@@ -1,0 +1,2 @@
+新添加的Alamofire Swift 2.0文件夹用于替换pod install alamofire 1.3的Alamofire文件夹
+修复了由于Swift2.0更新而产生的语法问题，修改后已成功编译运行
